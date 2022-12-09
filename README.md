@@ -36,17 +36,46 @@
 
 [Lab #6](https://colab.research.google.com/drive/1Tlt-6YHoDWSHr09QgAw-a4N0C514hsfv?usp=sharing)
 
+[Linear Fit](https://colab.research.google.com/drive/1YnY_v49JTauXvGrPWN5hbEGCDJgbZHkj?usp=sharing)
+
+[Midterm](https://colab.research.google.com/drive/1DkKEPTBXCTpGxFZTETEvXitXVyDovAl5)
+
+[Class Midterm](https://colab.research.google.com/drive/1xepx0C4c8-Er-rbfbQWelSSAk7JMARph?usp=sharing)
+
+[Data Science](https://colab.research.google.com/drive/1yaQ8ejgOtTnTKA49USqSdfyO4yIHmxHf?usp=sharing)
+
+[Lab #7 Linear Regression - Age of Universe](https://colab.research.google.com/drive/1qYvM0d9Dj7TkJN3bM0uljq5TS1D_0IJH?usp=sharing)
+
+[Lab #8 Linear Classifier](https://colab.research.google.com/drive/1GJhTRCAph3LwfIBJHDvNoMo7I84oxi6z?usp=sharing)
+
+[Lab #9 Linear Generator](https://colab.research.google.com/drive/1Z3oYBjlsjrvn21u1QzPMjzevOZtzgAI_?usp=sharing)
+
+[Lab #10 Linear Model Image Dataset](https://colab.research.google.com/drive/1XXCVJET5r36E8zf7jJSrHPf8egu8I_na?usp=sharing)
+
+[Final Project](https://colab.research.google.com/drive/1a0yHJvozOTpbrsPrB-_9W8cXD7sck4JB?usp=sharing)
+
 <!--
 
+[Demo 1](https://playground.tensorflow.org/)
+
+[Demo 2](https://tensorspace.org/)
+
+[Demo 3](https://mco-mnist-draw-rwpxka3zaa-ue.a.run.app/)
+
+[Demo 4](https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html)
+
+[Zoom Link](https://fau-edu.zoom.us/j/84643872215?pwd=d3crVXpRWDVPdHI2eFNaWXVaL1l3dz09)
+
+
+
+
 [Lab #6](https://colab.research.google.com/drive/1rJRIIInVtzyxwtDAyan7_9BarmKXWgFm?usp=sharing)
+
+
+
 -->
 
-## Midterm Project
 
-## Final Project
-
-
-## References
 
 <!--https://www.fourmilab.ch/rpkp/experiments/statistics.html-->
 
